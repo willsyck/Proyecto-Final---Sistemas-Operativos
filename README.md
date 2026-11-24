@@ -1,3 +1,3 @@
-##Proyecto Final Sistemas Operativos## 
+#Proyecto Final Sistemas Operativos# 
 
-\nJulian Esteban Perez
+Julian Esteban Perez
