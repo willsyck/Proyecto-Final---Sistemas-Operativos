@@ -3,7 +3,7 @@
 Nginx (proxy inverso + balanceo) → 3 backends Flask → métricas en Prometheus → dashboards en Grafana.
 Incluye Nginx Prometheus Exporter y cAdvisor.
 
-**Integrantes:** _(escribir nombres del grupo)_
+**Integrantes:** Julian Esteban Perez
 
 ## Arquitectura
 
