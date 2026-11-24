@@ -1,7 +1,7 @@
 # Proyecto final
 
 
-**Integrantes:** Julian Esteban Perez
+**Integrante:** Julian Esteban Perez
 
 ## Arquitectura
 
